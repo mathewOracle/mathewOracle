@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mathew Kadambatt</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Senior+Software+Engineer+%40+Walmart+Global+Tech;DevOps+%2F+Site+Reliability;Google+Cloud+Certified+Architect;MTech+AI+%26+ML+%40+BITS+Pilani" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=Staff+Software+Engineer+%40+Walmart+Global+Tech;DevOps+%2F+Site+Reliability;Google+Cloud+Certified+Architect;MTech+AI+%26+ML+%40+BITS+Pilani" alt="Typing SVG" />
 </p>
 
 <p align="center">
